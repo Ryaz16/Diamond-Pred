@@ -22,3 +22,13 @@ price: Price of the given Diamond.
 
 
 # Dataset Source Link : https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv
+
+Machine Learning
+** Regression**
+
+Regression on this dataset :
+Algorithms :
+
+Linear Regression
+Decision Tree Regressor
+Random Forest Regressor
