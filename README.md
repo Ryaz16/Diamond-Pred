@@ -29,6 +29,7 @@ Machine Learning
 Regression on this dataset :
 Algorithms :
 
-Linear Regression
-Decision Tree Regressor
-Random Forest Regressor
+LinearRegression,
+Lasso,
+Ridge,
+ElasticNet
